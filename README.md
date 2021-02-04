@@ -35,7 +35,7 @@ Locate on a heat map the provinces of the wineries and display the points and pr
 
 ### Linear regression Price VS Latitude, Longitude, Elevation
 
-![Linear regression](Output/linear_reg_lat_lon_elev.png)
+![Linear regression](Output/lin_reg_lat_lon.png)
 
 ### Regression models
 
