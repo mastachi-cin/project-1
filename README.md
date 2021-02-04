@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wine Pricing Forecast
 Statistical analysis to predict the price of wine applying multiple regression, based on different factors as points, longitude, altitude, elevation and price by country.
 
@@ -47,7 +46,3 @@ Locate on a heat map the provinces of the wineries and display the points and pr
 1. Eduardo Garza
 2. Cintia Mercado
 3. Mariana Revilla
-=======
-# project1
-Wine Pricing Forecast
->>>>>>> 9d7e3de683374de49d661ffd0bf12588d437fd16
